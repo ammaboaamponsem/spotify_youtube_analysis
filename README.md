@@ -1,12 +1,13 @@
-# Top 10 Songs of various Spotify artists and their YouTube video Analysis
+# Spotify & YouTube Performance Analysis
 
-A comprehensive breakdown of the top 10 songs of various Spotify artists and their YouTube video statistics. 	
-- The five (5) key objectives guiding our analysis are: 
-  1. The impact of Album Releases on Spotify streams and YouTube views; 
-  2. The comparison of Official and Non-Official YouTube Videos; 
-  3. The correlation between Spotify metrics and YouTube engagement; 
-  4. Genre Analysis on YouTube engagement; 
-  5. The impact of Tempo and Valence on YouTube Likes and Comments. 
+## 📊 Overview
+Investigating the relationship between music streaming performance on Spotify and visual engagement on YouTube for top artists to understand cross-platform content consumption.
 
-We will use statistical methods including T-testing, Correlation coefficient, GLM, Regression analysis, and other methods to breakdown the characteristics of these variables and conclude on findings for our key objectives. 
+## 🛠 Tech Stack
+- **Language:** Python
+- **Libraries:** Pandas, API integration tools
+
+## 📈 Key Findings
+- Correlated track popularity with music video view counts.
+- Identified high-performing genres across both platforms.
 
